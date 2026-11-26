@@ -1,0 +1,32 @@
+product_id,product_name,category,unit_price,unit_cost
+1,Rice 5kg,Staples,8200,6100
+2,Rice 10kg,Staples,15500,11800
+3,Garri 2kg,Staples,1800,1200
+4,Beans 2kg,Staples,3600,2500
+5,Semovita 2kg,Staples,2400,1700
+6,Vegetable oil 2L,Staples,4200,3100
+7,Palm oil 1L,Staples,2100,1500
+8,Sugar 1kg,Staples,1600,1100
+9,Indomie carton,Staples,6800,5200
+10,Bread loaf,Staples,1200,750
+11,Bottled water pack,Beverages,1800,1200
+12,Malt drink 6-pack,Beverages,3200,2300
+13,Soft drink crate,Beverages,4500,3300
+14,Instant coffee,Beverages,2800,1900
+15,Tea bags,Beverages,1500,950
+16,Orange juice 1L,Beverages,2200,1500
+17,Detergent 1kg,Household,1900,1300
+18,Bar soap pack,Household,1400,900
+19,Toilet paper 9-pack,Household,2600,1800
+20,Disinfectant,Household,2100,1450
+21,Sponge pack,Household,800,450
+22,Biscuits pack,Snacks,900,550
+23,Chin chin 500g,Snacks,1100,650
+24,Groundnuts 500g,Snacks,1300,800
+25,Plantain chips,Snacks,1000,600
+26,Toothpaste,Personal Care,1600,1050
+27,Toothbrush 2-pack,Personal Care,900,500
+28,Body cream,Personal Care,2400,1600
+29,Hand sanitiser,Personal Care,1200,700
+30,Premium olive oil 1L,Staples,9800,7200
+31,Ceramic storage jar,Household,6500,4000

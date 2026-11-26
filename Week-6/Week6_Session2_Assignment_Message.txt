@@ -1,0 +1,24 @@
+Hi everyone,
+
+Here is today's notebook: Week6_Session2_SQL_Joins.ipynb. Keep sunrise_stores.db in the same folder as the notebook, open that folder in VS Code, and run the cells from top to bottom.
+
+This week's main assignment is the SQL Analytics Challenge (10 percent of the course).
+
+Use the brief in Week6_SQL_Analytics_Challenge.txt, the starter notebook Week6_SQL_Challenge_Starter.ipynb, and the template queries.sql. All of them live in this folder, next to sunrise_stores.db.
+
+Deliverables:
+1. queries.sql — numbered queries with a short comment above each one.
+2. A README that says how to run the work (SQLite, as we used in class, is the expected path).
+3. Results and explanation — the output of each query, and what the answer means in plain words. You can put this in a markdown file or in the starter notebook.
+
+Grain-aware joins and honest totals matter more than clever SQL. Completed orders are the sales figures unless a question says otherwise.
+
+Also, in your README or in a short extra note, write one sentence for a possible capstone question and one sentence for a dataset you might use. This is a starting thought, not a locked decision. The capstone brief is Week8_Capstone_Brief.txt (in the Week 8 folder); a short outline is at the bottom of today's notebook.
+
+Grading (20 points, 4 each): Technical correctness, Problem solving, Analytical reasoning, Documentation, Communication. Join logic and grain awareness come first. Full details are in the brief.
+
+AI tools are allowed, but you should be able to explain every query and every number on our call.
+
+Submit queries.sql, your README, and your results / explanation through the usual submission form before our Week 7 Session 1 class.
+
+Adam

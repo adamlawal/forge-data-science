@@ -1,0 +1,81 @@
+customer_id,first_name,last_name,city,signup_date,segment
+1,Amaka,Ojo,Abuja,2025-10-14,New
+2,Ruth,Abdullahi,Ibadan,2026-04-29,Wholesale
+3,Blessing,Nwosu,Kano,2025-09-30,New
+4,Halima,Chukwu,Lagos,2026-04-17,New
+5,Halima,Musa,Lagos,2025-12-16,Regular
+6,Fatima,Danladi,Lagos,2025-09-23,Regular
+7,Amaka,Okafor,Port Harcourt,2025-10-30,Regular
+8,Hadiza,Suleiman,Ibadan,2026-01-10,Regular
+9,Emeka,Ajayi,Lagos,2026-04-06,Regular
+10,Amaka,Chukwu,Ibadan,2026-02-07,Wholesale
+11,David,Abdullahi,Lagos,2026-06-06,New
+12,Lola,Chukwu,Abuja,2026-05-13,Regular
+13,Kelechi,Chukwu,Ibadan,2026-04-01,New
+14,Ruth,Eze,Lagos,2026-02-06,Wholesale
+15,Hadiza,Ojo,Lagos,2025-10-14,New
+16,Ruth,Suleiman,Abuja,2025-11-28,New
+17,Ifeoma,Okeke,Lagos,2025-08-13,Regular
+18,Ibrahim,Okoro,Lagos,2025-11-14,Wholesale
+19,Fatima,Okoro,Lagos,2026-06-04,Wholesale
+20,Segun,Bello,Abeokuta,2025-12-03,Regular
+21,Ifeoma,Chukwu,Enugu,2025-08-11,Wholesale
+22,Bisi,Nwosu,Abuja,2026-02-23,Wholesale
+23,Emeka,Chukwu,Lagos,2026-06-17,Regular
+24,Grace,Adeyemi,Abeokuta,2026-05-13,Regular
+25,Ruth,Chukwu,Port Harcourt,2025-10-09,Regular
+26,Blessing,Ajayi,Port Harcourt,2025-12-13,Regular
+27,Chinedu,Ajayi,Ibadan,2026-01-10,Regular
+28,Seyi,Okoro,Lagos,2025-09-29,New
+29,David,Abdullahi,Lagos,2025-10-07,Regular
+30,Halima,Danladi,Enugu,2025-09-25,New
+31,Segun,Suleiman,Ibadan,2026-06-29,Wholesale
+32,Zainab,Ajayi,Lagos,2026-03-30,New
+33,Amaka,Ibe,Lagos,2026-05-03,New
+34,Maryam,Abdullahi,Abuja,2026-04-25,Regular
+35,Uche,Adebayo,Lagos,2026-06-16,New
+36,Tunde,Ibe,Kano,2025-08-08,New
+37,Fatima,Adeyemi,Port Harcourt,2026-05-18,Regular
+38,Fatima,Bello,Port Harcourt,2025-07-25,Wholesale
+39,Ngozi,Okeke,Ibadan,2025-12-21,New
+40,Blessing,Bello,Abuja,2026-02-02,Regular
+41,Funke,Abdullahi,Abuja,2025-11-08,Regular
+42,Kelechi,Okoro,Abuja,2025-08-23,Wholesale
+43,Hadiza,Okoro,Lagos,2025-09-09,Regular
+44,Bisi,Abdullahi,Ibadan,2026-04-28,New
+45,Tunde,Hassan,Lagos,2025-10-25,New
+46,Lola,Ibe,Ibadan,2025-10-22,New
+47,Halima,Okafor,Lagos,2026-06-03,New
+48,Uche,Ajayi,Lagos,2025-08-22,Regular
+49,Olu,Ibe,Lagos,2026-05-31,New
+50,Ruth,Okoro,Abuja,2026-06-02,Regular
+51,Ruth,Ibe,Lagos,2026-02-04,Regular
+52,Emeka,Ibe,Enugu,2025-08-30,Regular
+53,Bisi,Okafor,Abuja,2025-08-26,New
+54,Segun,Ibe,Lagos,2025-10-12,Regular
+55,Ifeoma,Chukwu,Abuja,2026-01-27,Regular
+56,Tunde,Suleiman,Lagos,2025-08-26,Regular
+57,David,Musa,Abeokuta,2025-12-14,New
+58,Funke,Adeyemi,Ibadan,2025-08-12,New
+59,Kelechi,Balogun,Port Harcourt,2026-01-14,Wholesale
+60,Olu,Abdullahi,Lagos,2025-07-08,Regular
+61,Grace,Nnamdi,Ibadan,2026-03-16,Regular
+62,Kelechi,Okeke,Ibadan,2025-07-21,Regular
+63,Bisi,Suleiman,Enugu,2025-09-10,Regular
+64,Lola,Eze,Abuja,2025-09-02,Wholesale
+65,Chinedu,Nnamdi,Ibadan,2026-04-30,New
+66,Yusuf,Hassan,Lagos,2025-07-20,Wholesale
+67,Grace,Adeyemi,Lagos,2025-12-04,New
+68,Bisi,Okeke,Ibadan,2026-02-01,Regular
+69,Amaka,Chukwu,Ibadan,2026-01-05,Regular
+70,Segun,Okafor,Lagos,2026-03-06,New
+71,Seyi,Hassan,Kano,2026-04-20,New
+72,Emeka,Suleiman,Enugu,2025-11-21,Regular
+73,Segun,Ojo,Lagos,2026-04-29,Wholesale
+74,Ibrahim,Suleiman,Abuja,2025-10-25,Regular
+75,Olu,Abdullahi,Lagos,2026-06-25,Wholesale
+76,Segun,Okoro,Abuja,2026-01-01,Regular
+77,Yusuf,Bello,Lagos,2026-03-26,Regular
+78,Zainab,Ibe,Abuja,2026-05-16,Regular
+79,Maryam,Adebayo,Port Harcourt,2026-04-16,New
+80,Olu,Ajayi,Port Harcourt,2026-05-07,New

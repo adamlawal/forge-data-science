@@ -1,0 +1,51 @@
+SQL Analytics Challenge
+Forge Academy | Data Science Foundations | Week 6
+Weight: 10 percent of the course
+
+Goal
+Answer business-style questions with SQL (joins and aggregations) on the Sunrise Stores database (customers, orders, products, order_items, payments).
+
+Database
+Use sunrise_stores.db, the same SQLite file we used in class. Keep it in the same folder as your queries. You do not need PostgreSQL for this assignment.
+
+Deliverables
+1. queries.sql — numbered queries with a short comment above each one.
+2. README — how to run the queries (SQLite is the expected path).
+3. Results / explanation — the output of each query (or a clear screenshot) and what the answer means in plain words. Include at least one short note about grain: what one row means in a join you used.
+
+Expectations
+- Correct join logic and grain awareness (count rows when a join could duplicate them).
+- Aggregations with a proper GROUP BY.
+- Completed orders are the sales figures unless the question says otherwise.
+- Clear names and comments.
+- Do not leave SELECT * as a final answer unless you justify it.
+
+Questions
+Write one query (or a short pair of queries, if a grain check needs its own count) for each item.
+
+1. How many completed orders were placed in each channel? Show the channel and the count, largest first.
+2. What is total revenue, and total units sold, by product category for completed orders? Highest revenue first.
+3. Which 10 customers spent the most on completed orders? Include name, city, segment, number of completed orders, and total spend.
+4. What is the average order value by channel for completed orders? Compute this at order grain (sum the lines in each order first, then average those totals). Show the number of orders, the average, and total revenue.
+5. Which products have never been ordered? Show product_id, product_name, category and unit_price.
+6. In which months of 2026 was completed-order revenue highest and lowest? Show every month with the number of distinct completed orders and the revenue, in calendar order, and say in your write-up which months are highest and lowest.
+7. How many customers placed more than 8 completed orders? List them with their order counts, highest first.
+8. For completed orders, what is the number of payments and the total amount by payment method?
+9. Compare Staples and Snacks on completed orders: units sold and revenue.
+10. Grain check. Write the unsafe query that averages line values (not order totals) by channel, then write the safe average-order-value query from question 4 (or refer to it). In your write-up, explain in a few sentences what is wrong with the unsafe query and which numbers a shop owner should trust.
+
+How it is assessed (20 points, 4 points each)
+- Technical correctness: queries run; joins and filters are right; numbers can be trusted.
+- Problem solving: you chose a grain-safe approach, especially on questions 3, 4, 6 and 10.
+- Analytical reasoning: the write-up says what the numbers mean, not only what they are.
+- Documentation: comments, README, and a reproducible run path.
+- Communication: clear tables or pasted results, honest wording, no leftover SELECT * as a final answer.
+
+Watch-outs
+- Wrong join type or wrong key.
+- Duplicated rows after a join, with no grain check.
+- Treating cancelled or refunded baskets as sales.
+- Average line value presented as average order value.
+
+Capstone note
+Week 6 also introduces the capstone brief. In your README or a short extra note, add one possible capstone question and one possible dataset. You can change your mind later.

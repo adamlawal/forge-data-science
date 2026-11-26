@@ -1,0 +1,23 @@
+Hi everyone,
+
+Here is today's notebook: Week6_Session1_SQL_Fundamentals.ipynb. Keep sunrise_stores.db in the same folder as the notebook, open that folder in VS Code, and run the cells from top to bottom. You do not need to install a database server; we use SQLite from the notebook.
+
+This session's assignment is short practice, due before our next class.
+
+Write numbered queries against sunrise_stores.db. Add a one-line comment above each query saying what it answers. Use SELECT, WHERE, GROUP BY and HAVING as needed. Do not join tables yet.
+
+1. List every product in Personal Care, cheapest first.
+2. Count the customers in each city, largest first.
+3. How many orders were Cancelled?
+4. Which segments have more than 20 customers? Show the segment and the count.
+5. Among products that cost less than 2,000, what is the average unit_price in each category?
+
+Grading (20 points): Correctness, Problem Solving, Code Quality, Communication and Independence, 4 points each. Full details are at the bottom of the notebook.
+
+The longer SQL Analytics Challenge (joins, a write-up, 10 percent of the course) will be set properly in Session 2. If you want a preview, you can open Week6_SQL_Analytics_Challenge.txt, but you do not need to finish it this week.
+
+AI tools are allowed, but you should be able to explain every line of your work on our call.
+
+Submit your queries (a .sql file or a notebook) through the usual submission form before our next class.
+
+Adam
