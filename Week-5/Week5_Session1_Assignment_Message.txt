@@ -1,0 +1,20 @@
+Hi everyone,
+
+Here is today's notebook: Week5_Session1_Descriptive_Stats.ipynb. Keep quickdrop_deliveries.csv in the same folder as the notebook, open it in VS Code, and run the cells from top to bottom.
+
+Today we practise descriptive statistics, distributions, sampling, and simple probability, with interpretation over formulas.
+
+Homework, before the next class:
+
+1. Finish Your turns 1 to 5 in the class notebook, and write the challenge briefing for the QuickDrop manager.
+2. Start the Statistical Investigation: write a clear analysis question, name the dataset you will use, and say whether you are treating it as a sample or a population. Dataset choice is open. The QuickDrop file is one option, not a requirement.
+
+The full Statistical Investigation is the major Week 5 assignment. We will add correlation, confidence intervals, and a simple hypothesis test in Session 2, and that is when the investigation becomes the main submission.
+
+Watch-outs for the eventual write-up: do not rely on the mean alone, and (after Session 2) do not treat correlation as causation, do not treat "p < 0.05" as proof, and do not read a confidence interval as the probability that the true value is inside it.
+
+AI tools are allowed, but you should be able to explain every number on our call.
+
+Submit your completed class notebook (with Your turns, the briefing, and your draft question) through the usual submission form before our next class.
+
+Adam

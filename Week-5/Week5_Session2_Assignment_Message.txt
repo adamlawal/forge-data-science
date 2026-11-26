@@ -1,0 +1,37 @@
+Hi everyone,
+
+Here is today's notebook: Week5_Session2_Inference.ipynb. Keep lumen_practice.csv in the same folder as the notebook, open it in VS Code, and run the cells from top to bottom.
+
+Today we practise correlation, confidence intervals, and a simple hypothesis test, with interpretation over formulas. If you can compute a result but cannot say what it means, the work is not finished.
+
+This week's main assignment is the Statistical Investigation.
+
+What to do:
+
+1. State a research / analysis question.
+2. Describe the data and any sampling assumptions (is this a sample? of what population?).
+3. Use appropriate tools from Week 5: descriptive statistics and distributions, correlation if it is relevant, and a simple inference step (a hypothesis test and/or a confidence interval), as covered.
+4. Explain results in plain language: what they mean, and what they do not mean.
+5. Note limitations.
+
+What to turn in:
+
+- A notebook or a notebook plus a short write-up, with code and written interpretation.
+- A short conclusion that answers the original question.
+
+Dataset choice is open. You may use lumen_practice.csv, quickdrop_deliveries.csv, or another CSV you can load with pd.read_csv.
+
+How it is assessed: analytical reasoning, interpretation, technical correctness, communication, and independence.
+
+Watch-outs (these lose marks):
+
+- Mean-only thinking
+- Correlation treated as causation
+- "p < 0.05" treated as proof
+- A confidence interval misread as "the probability that the true value is inside"
+
+AI tools are allowed, but you should be able to explain every number and every sentence on our call.
+
+Submit your work through the usual submission form before the next week of class, unless we agree a later date in class.
+
+Adam
