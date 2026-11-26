@@ -1,0 +1,35 @@
+Capstone rubric
+Forge Academy | Data Science Foundations | Week 8
+Weight: 25 percent of the course | 25 points in total
+
+Grade from the submitted bundle (repository, notebook, README, reflection)
+plus the 7 to 10 minute talk.
+
+Category                         Points    What earns full marks
+-------------------------------  --------  --------------------------------------------------------
+Technical correctness            3         Code and numbers are right. Any SQL, statistics, or
+                                           model is used in a way that matches the question.
+Data handling                    3         The grain of the table is clear. Cleaning is justified.
+                                           Missing values and odd rows are inspected, not ignored.
+Analytical reasoning             3         The analysis is driven by the question. Comparisons are
+                                           fair. Confounders or mix effects are noticed when they
+                                           matter.
+Interpretation                   3         Findings are stated in plain language, with numbers, and
+                                           without over-claiming.
+Communication                    4         The 7 to 10 minute talk is clear, on time, and insight-led.
+                                           Chart titles and spoken sentences state the takeaway.
+Documentation                    3         README covers the question, how to run, the data,
+                                           findings and limitations. The reflection is genuine.
+Reproducibility                  2         The notebook runs from top to bottom in the stated
+                                           folder, with the data or a clear data link.
+Independence                     2         Choices are your own and you can explain them.
+Code quality                     2         Names are clear, the raw data is not overwritten, and
+                                           the notebook is readable.
+
+Total                            25
+
+Pass mindset
+Strong work shows end-to-end thinking, justified choices, and insights, not a
+demo-only walkthrough. A missing README, a notebook that does not run, or a talk
+with no limitation will cap the mark in the related categories even if the code
+is tidy.

@@ -1,0 +1,62 @@
+Capstone brief
+Forge Academy | Data Science Foundations | Week 8
+Tier 3 end-to-end project | 25 percent of the course
+
+Introduced in Week 6. Built through Weeks 6 and 7 in parallel with the SQL and ML work.
+Week 8 is for finishing and communicating. Do not invent a new method this week.
+
+Goal
+Ship a portfolio-ready, end-to-end data project and present it clearly.
+
+The question and the dataset are yours to choose. Use only tools already taught
+(Python, pandas, EDA, charts, statistics, SQL, and a simple model if it genuinely
+fits the question). A model is optional. A clear question, careful data work,
+findings with numbers, and named limitations are not optional.
+
+Structure
+Problem, Dataset, Prep, EDA, Stats (as relevant), Model (if used), Evaluation,
+Insights, Recommendations, Limitations, Future work.
+
+Deliverables
+1. A GitHub repository (or a complete project folder with the same contents)
+2. A notebook that runs from top to bottom
+3. A README that a stranger can follow
+4. A 7 to 10 minute presentation
+5. A short written reflection
+
+"Repository" here means a reproducible folder: notebook, data or a clear data
+link, and a README, so that another person, including future you, can run the
+work and understand it.
+
+Suggested folder layout
+
+    project-name/
+        README.md
+        notebook.ipynb
+        data/
+            ...
+
+Milestones (from the Capstone Tracker)
+Idea, Problem Definition, Data Collection, Data Cleaning, EDA, Statistical
+Analysis, Modeling (if used), Evaluation, Documentation, Presentation, Complete.
+
+Final presentation
+7 to 10 minutes. Cover the question, the data, one or two findings with numbers,
+a limitation, and a next step. Rehearse once against a timer. A suggested outline
+is in presentation_outline.md.
+
+Reflection
+About 400 to 700 words. Prompts are in reflection_prompts.md. This is a
+reflection on the work and the learning, not a second copy of the README.
+
+How it is assessed
+See Week8_Capstone_Rubric.txt. The mark is holistic: the submitted bundle plus
+the talk. Strong work shows end-to-end thinking, justified choices, and insights,
+not a demo-only walkthrough.
+
+Watch-outs
+- Introducing a new method in Week 8
+- A repo with no README, or a notebook that does not run from top to bottom
+- Findings with no numbers, or recommendations the evidence cannot support
+- Missing limitations or future work
+- A talk that overruns, or that tours tools instead of telling the story

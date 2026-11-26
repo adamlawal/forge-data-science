@@ -1,0 +1,21 @@
+Hi everyone,
+
+Here is today's notebook: Week8_Session1_Capstone_Studio.ipynb. Keep mini_capstone_orders.csv in the same folder if you want to re-run the worked example, and have your own capstone folder open beside it.
+
+This is a studio week. We will not introduce new methods. The job is to finish the capstone, write a README that a stranger can follow, and rehearse a 7 to 10 minute talk.
+
+The brief is Week8_Capstone_Brief.txt and the rubric is Week8_Capstone_Rubric.txt. There is also a README template, a talk outline, reflection prompts, and a short worked example README (Mini_Capstone_README.md) in this folder.
+
+Before our final class, please:
+1. Finish the GitHub repository (or a complete project folder), the notebook, and the README.
+2. Confirm that the notebook runs from top to bottom.
+3. Rehearse the talk at least once with a timer, and finish inside 10 minutes.
+4. Come ready to present in Session 2. We will start the written reflection in that class.
+
+The capstone is 25 percent of the course. It is assessed on Technical correctness, Data handling, Analytical reasoning, Interpretation, Communication, Documentation, Reproducibility, Independence, and Code quality. Full details are in the rubric.
+
+AI tools are allowed, but you should be able to explain every step and every number in the talk.
+
+Submit the repository link (or project folder), the notebook, and the README through the usual submission form before Session 2. The reflection can be added after we start it in class.
+
+Adam

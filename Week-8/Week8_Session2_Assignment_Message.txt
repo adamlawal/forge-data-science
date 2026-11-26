@@ -1,0 +1,20 @@
+Hi everyone,
+
+Here is today's notebook: Week8_Session2_Presentations.ipynb. Today's class is the final presentations. Each person will speak for 7 to 10 minutes. We will protect the timer and give specific feedback. We will also start the written reflection in class.
+
+Please submit the full capstone bundle through the usual submission form:
+
+1. The GitHub repository link, or a complete project folder
+2. The notebook (it must run from top to bottom)
+3. The README
+4. The written reflection (about 400 to 700 words; prompts are in reflection_prompts.md)
+
+The talk you give today is part of the same assessment. The brief and rubric are Week8_Capstone_Brief.txt and Week8_Capstone_Rubric.txt. The capstone is 25 percent of the course.
+
+A strong talk starts with a question, shares one or two findings with numbers, names a limitation, and ends on a next step the evidence can support. It is not a tour of tools.
+
+AI tools are allowed in the project work, but you should be able to explain every step and every number in the talk.
+
+Thank you for the work you have put into this course.
+
+Adam
