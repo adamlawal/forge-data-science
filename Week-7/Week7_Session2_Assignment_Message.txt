@@ -1,0 +1,17 @@
+Hi everyone,
+
+Here is today's notebook: Week7_Session2_Decision_Trees.ipynb. Keep greenline_deliveries.csv in the same folder as the notebook, open that folder in VS Code, and run the cells from top to bottom.
+
+Please finish the Introductory ML Project, due before our Week 8 Session 1 class. The brief is Week7_Introductory_ML_Project.txt and the starter is Week7_ML_Project_Starter.ipynb.
+
+You now have everything in scope: the workflow, a baseline, Linear or Logistic Regression, a Decision Tree, and the metrics we practised (MAE, RMSE, R-squared, accuracy, precision, recall, and the confusion matrix). Compare the models. A tree is not automatically better. Always show training and test scores when you change the depth of a tree.
+
+If you have not already, add a one-paragraph capstone progress update at the end of the project notebook. Week 8 is a studio and presentation week: we will not introduce new methods.
+
+Grading (10 percent of the course): Technical correctness, Problem solving, Analytical reasoning, Interpretation, Reproducibility, Documentation. Missing baseline, a skipped split, obvious leakage, or accuracy-only on an imbalanced class problem will be penalised.
+
+AI tools are allowed, but you should be able to explain every line and every metric on our call.
+
+Submit your completed notebook through the usual submission form before Week 8 Session 1.
+
+Adam

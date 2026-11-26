@@ -1,0 +1,52 @@
+Introductory Machine Learning Project
+Forge Academy | Data Science Foundations | Week 7
+Weight: 10 percent of the course
+
+Goal
+Complete a small supervised ML project with scikit-learn and honest evaluation.
+
+Required workflow
+Problem, Features and Target, Prep, Split, Baseline, Model, Predict, Evaluate, Interpret.
+
+Models and skills in scope
+- Linear Regression and/or Logistic Regression
+- A Decision Tree, compared with the model above
+- Metrics as appropriate: MAE, RMSE, R-squared for a numeric target, or Accuracy, Precision,
+  Recall and a Confusion Matrix for a class target
+
+Dataset
+You may use:
+- greenline_deliveries.csv (the class data: predict delivery_minutes and/or arrived_late)
+- used_phones.csv (optional: for example predict sold_price or days_to_sell)
+- another small tabular dataset that you can explain, with a clear target
+
+If you use the courier data, do not use delivery_minutes as a feature when the target is
+arrived_late. That would leak the answer.
+
+Deliverables
+- A notebook that runs from top to bottom
+- A clear train/test split and a baseline before the model
+- Metric interpretation in plain language (a number without a sentence is not finished)
+- A short note on limitations and next steps
+- A one-paragraph capstone progress update (parallel track; not part of this project's score)
+
+How it is assessed (10 percent of the course)
+Technical correctness, Problem solving, Analytical reasoning, Interpretation,
+Reproducibility, Documentation.
+
+Watch-outs (these will be penalised)
+- No baseline
+- Data leakage
+- Skipping the train/test split
+- Algorithm-first thinking (a model with no problem statement or no comparison)
+- Accuracy-only on a class problem where one class is more common than the other
+
+Suggested shape of the notebook
+1. Problem in one or two sentences
+2. Inspect the table; name the features and the target
+3. Prep (missing values, 0/1 columns if needed) on a copy of the data
+4. Train/test split, with a fixed random_state
+5. Baseline, then Linear or Logistic Regression, then a Decision Tree
+6. A small comparison table or printed metrics, plus a confusion matrix if you have a class target
+7. Interpretation, limitations, next steps
+8. Capstone progress paragraph

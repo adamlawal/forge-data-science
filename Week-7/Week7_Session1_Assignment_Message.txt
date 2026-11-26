@@ -1,0 +1,17 @@
+Hi everyone,
+
+Here is today's notebook: Week7_Session1_ML_Workflow.ipynb. Keep greenline_deliveries.csv in the same folder as the notebook, open that folder in VS Code, and run the cells from top to bottom.
+
+This week's major assignment is the Introductory ML Project (10 percent of the course). The full brief is Week7_Introductory_ML_Project.txt. A starter notebook, Week7_ML_Project_Starter.ipynb, is in the same folder. There is also an optional second dataset, used_phones.csv, if you want a different question from the courier data we used in class.
+
+Please start the project before Session 2 and bring questions. The finished notebook is due before our Week 8 Session 1 class.
+
+You must follow the full workflow, including a train/test split and a baseline before any model. You will add a Decision Tree comparison after Session 2. Interpret the metrics in plain language, add a short limitations note, and include a one-paragraph capstone progress update.
+
+Grading (10 percent of the course): Technical correctness, Problem solving, Analytical reasoning, Interpretation, Reproducibility, Documentation. Missing baseline or obvious leakage will be penalised. Full details are in the brief.
+
+AI tools are allowed, but you should be able to explain every line and every metric on our call.
+
+Submit your completed notebook through the usual submission form before Week 8 Session 1.
+
+Adam
