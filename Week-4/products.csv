@@ -1,0 +1,13 @@
+product_id,product_name,category,unit_price,in_stock
+P01,Rice 5kg,Staples,8500.0,Yes
+P02,Beans 1kg,Staples,1800.0,Yes
+P03,Garri 2kg,Staples,2200.0,Yes
+P04,Bread,Staples,900.0,Yes
+P05,Bottled Water,Drinks,300.0,Yes
+P06,Soft Drink,Drinks,400.0,Yes
+P07,Malt Drink,Drinks,550.0,Yes
+P08,Indomie Pack,Snacks,200.0,Yes
+P09,Biscuits,Snacks,250.0,Yes
+P10,Plantain Chips,Snacks,400.0,Yes
+P11,Soap Bar,Household,350.0,Yes
+P12,Detergent,Household,,Yes

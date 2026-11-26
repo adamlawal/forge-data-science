@@ -1,0 +1,21 @@
+Hi everyone,
+
+Here is today's notebook: Week4_Session1_Pandas_Workflow.ipynb. Keep products.csv and orders.csv in the same folder as the notebook, open it in VS Code, and run the cells from top to bottom.
+
+Today we practise the pandas analytical workflow with a small fictional shop, Greenleaf Market.
+
+Homework, before the next class:
+
+1. Finish Your turns 1 to 6 in the class notebook, and the challenge.
+2. Write a short findings paragraph (about 8 to 12 lines) that answers the mission question, includes at least one number from your tables, and ends with one clear caveat.
+3. Start the EDA project: choose a clear question and a dataset you can load with pd.read_csv. Dataset choice is open. The Greenleaf Market files are one option, not a requirement. Write your question and the dataset name in a markdown cell or a short note so we can talk about it next class.
+
+The full EDA project brief is at the bottom of today's notebook. We will go through the visualisation side in Session 2, and that is when the project becomes the main assignment.
+
+Grading for the eventual project follows the course project rubric, with emphasis on structure, data handling, analysis, interpretation, and communication.
+
+AI tools are allowed, but you should be able to explain every line of your work on our call.
+
+Submit your completed class notebook (with Your turns, the challenge, and your findings paragraph) through the usual submission form before our next class.
+
+Adam

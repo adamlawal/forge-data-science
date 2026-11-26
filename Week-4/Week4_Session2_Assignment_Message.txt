@@ -1,0 +1,35 @@
+Hi everyone,
+
+Here is today's notebook: Week4_Session2_Visualization_EDA.ipynb. Keep tips.csv in the same folder as the notebook, open it in VS Code, and run the cells from top to bottom.
+
+Today we practise choosing charts that each answer a question. The rule is the same one we will use on the project: every visualisation must answer a question.
+
+This week's main assignment is the EDA project.
+
+Required flow: Problem -> Understanding -> Cleaning -> Exploration -> Visualization -> Findings -> Conclusion.
+
+What to turn in:
+
+1. A notebook that runs from top to bottom without errors.
+2. A cleaned dataset (CSV).
+3. A short README: dataset source, how to run the notebook, and your assumptions.
+4. A short findings report (about 1 to 2 pages, or a markdown section in the notebook) with at least 3 well-developed insights that go beyond describing a chart.
+
+Dataset choice is open. You may use tips.csv, the Greenleaf Market files from Session 1, a dataset from earlier in the course, or another CSV you can load with pd.read_csv.
+
+Quality bar:
+
+- Inspect before you clean, and justify each fix.
+- Use meaningful analysis (for example groupby), not charts alone.
+- Every chart answers a stated question, with a takeaway title and labelled axes.
+- State caveats. Do not overclaim.
+
+Projects that only generate charts without thoughtful interpretation will not pass.
+
+Grading follows the course project rubric, with emphasis on structure, data handling, analysis, interpretation, and communication.
+
+AI tools are allowed, but you should be able to explain every line and every chart on our call.
+
+Submit your notebook, cleaned CSV, README, and findings report through the usual submission form before our Week 5 classes, unless we agree a later date in class.
+
+Adam
